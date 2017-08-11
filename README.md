@@ -1,6 +1,6 @@
 基于[react-markdown](https://github.com/rexxars/react-markdown)
 
-```
+``` javascript
 Basic usage
 
 var React = require('react');
